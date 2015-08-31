@@ -4,9 +4,6 @@
 * @package	Joomshoping for Joomla!
 * @copyright	Copyright (C) 2015 Afzoneha.ir Mohamad Deljou
 * @license		do not copy please. for order or technical support call me at 09355384337
-* @autor url    http://www.Afzoneha.ir/
-* @autor email  info@afzoneha.ir
-* @Developer    Mohamad Deljou - www.Afzoneha.ir
 * 
 */
 defined('_JEXEC') or die('Restricted access');
